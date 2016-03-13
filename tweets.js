@@ -8,7 +8,7 @@
 // Given a string, return the number of characters in that string
 function countChars(userString) {
   //your code here
-  //don't forget to return userString
+  //don't forget to return the number of characters (use return!)
 }
 
 //==============================================================================
